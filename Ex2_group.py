@@ -55,7 +55,7 @@
 # - Run the program to see your group’s full story!
 #
 # -------------------------------------------
-# ⭐ Extension Challenge (optional)
+# Extension Challenge (optional)
 # -------------------------------------------
 # - Combine all the answers into a final story paragraph.
 # - Example:
@@ -68,5 +68,5 @@
 #    git push origin main
 #
 # -------------------------------------------
-# ✅ Done!
+# Done!
 # -------------------------------------------
