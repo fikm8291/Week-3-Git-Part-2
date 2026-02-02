@@ -43,7 +43,7 @@ print("-------------------------------------------\n"
 #    Convert the answer to a float() and save it in a variable with a descriptive name.
 # 4. Calculate the cost: (distance / efficiency) * gas_price.
 #    Save this in a variable with a descriptive name.
-# 5. Print: "Estimated Fuel Cost: $X" (Use the calculation variable you just made).
+# 5. Print: "Estimated Fuel Cost: £X" (Use the calculation variable you just made).
 
 # Write your code below:
 
@@ -84,7 +84,7 @@ print("\n-------------------------------------------\n"
 #    Convert the answer to a float() and save it in a variable with a descriptive name.
 # 3. Calculate the total: nights * hotel_price.
 #    Save this in a variable with a descriptive name.
-# 4. Print: "Estimated Hotel Cost: $X"
+# 4. Print: "Estimated Hotel Cost: £X"
 
 # Navigators: Watch closely! Make sure they convert the input correctly.
 
@@ -160,7 +160,7 @@ print("\n-------------------------------------------\n"
 # TODO:
 # 1. Create a variable called 'per_person_cost'.
 # 2. Calculate it by dividing your Grand Total variable by your People variable.
-# 3. Print: "Each person pays: $X"
+# 3. Print: "Each person pays: £X"
 
 # Write your code below:
 
